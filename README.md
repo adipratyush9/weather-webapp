@@ -1,4 +1,4 @@
-# Can/Am Weather App
+# Weather App
 
 A full-stack weather application built with:
 
