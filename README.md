@@ -12,11 +12,11 @@ A full-stack weather application built with:
 
 ⚠️ Always run commands from:
 
-    full-weather-app/
+    weather-webapp-main (home directory)
 
 # 👨‍💻 Quick Start
 
-    cd full-weather-app
+    cd weather-webapp-main (or cd home-directory)
     npm run setup
     npm run dev
 
@@ -30,7 +30,7 @@ A full-stack weather application built with:
 
 All commands must be executed from the project root:
 
-    full-weather-app/
+    weather-webapp-main/
     │
     ├── backend/
     │   └── NwsWeather.Api/
